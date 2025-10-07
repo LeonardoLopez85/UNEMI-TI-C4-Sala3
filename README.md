@@ -6,7 +6,7 @@ Programa para identificar si un número es positivo, negativo o cero
 
 **numero:**  
   Es el numero que el usuario debe ingresar por teclado.  
-  Ejemplo: numeoro = 11 o numero = -11 o numero = 0.  
+  Ejemplo: numero = 11 o numero = -11 o numero = 0.  
 
 **positivo:**  
   Se obtiene preguntando si el numero es mayor a 0:  
