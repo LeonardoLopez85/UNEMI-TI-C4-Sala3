@@ -21,4 +21,4 @@ Programa para identificar si un número es positivo, negativo o cero
   `si numero > 0 o numero < 0 entonces numero = 0`  
 
 **Resultados en pantalla:**  
-El programa muestra si el numero ingresado es positivo, negativo o cero.  
+El programa muestra si el numero ingresado es positivo, negativo o cero1.  
