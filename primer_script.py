@@ -7,4 +7,4 @@ print("Estamos aprendiendo Python")
 # Ejecuten el archivo desde IDLE o desde la terminal:
 # python3 primer_script.py
 # Esta línea mantendrá la ventana abierta
-input("Presiona Enter para salir....")
+input("Presiona Enter para salir...")
