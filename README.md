@@ -55,10 +55,10 @@ En conjunto, redacten un párrafo respondiendo a la siguiente pregunta:
 Subir su respuesta escrita al aula virtual.
 
 5️⃣ Mini-informe final  
-👉 Como cierre del taller, redacten un breve informe grupal con la siguiente estructura:
+👉 Como cierre del taller, redacten un breve informe grupal con la siguiente estructura:  
 
-Nombre del grupo e integrantes.
-Instalación y comprobación: versión instalada de Python.
-Primer script: código creado y ejecución.
-Evidencia en aula virtual: archivo entregado.
-Reflexión escrita: respuesta grupal a la pregunta planteada.
+Nombre del grupo e integrantes.  
+Instalación y comprobación: versión instalada de Python.  
+Primer script: código creado y ejecución.  
+Evidencia en aula virtual: archivo entregado.  
+Reflexión escrita: respuesta grupal a la pregunta planteada.  
