@@ -5,4 +5,4 @@ Enter "help" below or click "Help" above for more information.
 ... print("Carrera o especialidad del grupo: [Carrera]")
 ... print("Estamos aprendiendo Python")
 # Esta línea mantendrá la ventana abierta
-input("Presiona Enter para salir...")
+input("Presiona Enter para salir....")
