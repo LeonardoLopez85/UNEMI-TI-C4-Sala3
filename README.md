@@ -1,4 +1,4 @@
-# 🛠 Taller: Primeros pasos con Python  
+# 🛠 Taller: Primeros pasos con Python.  
 
 🎯 **Objetivo:**  
 Reconocer las principales aplicaciones del lenguaje Python en distintos contextos, instalar y configurar correctamente el intérprete en el equipo personal y comprobar el funcionamiento del entorno de programación mediante la ejecución de un script básico.
