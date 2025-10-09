@@ -9,10 +9,10 @@ Reconocer las principales aplicaciones del lenguaje Python en distintos contexto
 
 👉 **Actividad:**  
 
-1. Descarguen e instalen la versión más reciente de Python desde la página oficial. [texto del enlace](https://www.python.org).
+1. Descarguen e instalen la versión más reciente de Python desde la página oficial. [www.python.org](https://www.python.org).
 2. Verifiquen la instalación ejecutando en la terminal:
-3. python3 --version  
-o abriendo *IDLE*.
+3. _python3 --version_  
+o abriendo **IDLE**.
 
 👉 **Evidencia:**  
 Captura de pantalla mostrando la versión instalada (ejemplo: Python 3.13.0).
@@ -24,14 +24,14 @@ Captura de pantalla mostrando la versión instalada (ejemplo: Python 3.13.0).
 
 👉 **Actividad:**  
 
-1. En equipo, creen un archivo llamado primer_script.py.
+1. En equipo, creen un archivo llamado _primer_script.py_.
 2. Escriban el siguiente código adaptado con la información de su grupo:
-3. print("Nombre del grupo: [Nombre elegido por el grupo]")
-4. print("Integrantes: [Lista de nombres completos]")
-5. print("Carrera o especialidad del grupo: [Carrera]")
-6. print("Estamos aprendiendo Python")
+3. `print("Nombre del grupo: [Nombre elegido por el grupo]")`
+4. `print("Integrantes: [Lista de nombres completos]")`
+5. `print("Carrera o especialidad del grupo: [Carrera]")`
+6. `print("Estamos aprendiendo Python")`
 7. Ejecuten el archivo desde IDLE o desde la terminal:
-8. python3 primer_script.py
+8. _python3 primer_script.py_
 
 👉 **Pregunta de reflexión:**  
 ¿Cómo les ayuda este primer ejercicio a comprender la lógica básica de un lenguaje de programación?
@@ -40,7 +40,7 @@ Captura de pantalla mostrando la versión instalada (ejemplo: Python 3.13.0).
 
 👉 **Actividad:**  
 
-● Suban el archivo primer_script.py al aula virtual como evidencia de su práctica grupal.
+● Suban el archivo _primer_script.py_ al aula virtual como evidencia de su práctica grupal.
 
 👉 **Pregunta de reflexión:**  
 ¿Qué ventajas tiene trabajar en equipo para el aprendizaje de un nuevo lenguaje de programación?
